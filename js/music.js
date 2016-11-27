@@ -777,6 +777,7 @@ var data=[
             divs[i].index=i;
             // 5.唱片盒子双击进入播放页面并播放事件
             divs[i].ondblclick=function(){
+                gestListener();
                 clearTimeout(this.timer);
                 if (num!=this.index) {
                     return;
