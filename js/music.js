@@ -4,35 +4,35 @@ var data=[
                 song:"暗涌(Live)",
                 singer:"黄耀明",
                 src:"mp3/黄耀明 - 暗涌(Live) - live.mp3",
-                img:'css/img/hym.jpg',
+                img:'img/hym.jpg',
                 lyric:'anyong'
             },
             {
                 song:"值得",
                 singer:"迪克牛仔",
                 src:"mp3/迪克牛仔 - 值得.mp3",
-                img:'css/img/dknz.jpg',
+                img:'img/dknz.jpg',
                 lyric:'zhide'
             },
             {
                 song:"独角戏",
                 singer:"许茹芸",
                 src:"mp3/许茹芸 - 独角戏.mp3",
-                img:'css/img/xuruyun.jpg',
+                img:'img/xuruyun.jpg',
                 lyric:'djx'
             },
             {
                 song:"后来(Live)",
                 singer:"张敬轩",
                 src:"mp3/张敬轩 - 后来(国)(Live) - live.mp3",
-                img:'css/img/zjx.jpg',
+                img:'img/zjx.jpg',
                 lyric:'hl'
             },
             {
                 song:"以前，以后",
                 singer:"A-Lin",
                 src:"mp3/A-Lin - 以前，以后.mp3",
-                img:'css/img/alin.jpg',
+                img:'img/alin.jpg',
                 lyric:'hl'
             }
             
