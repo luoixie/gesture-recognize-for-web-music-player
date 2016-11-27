@@ -33,7 +33,7 @@ var data=[
                 singer:"A-Lin",
                 src:"mp3/A-Lin - 以前，以后.mp3",
                 img:'img/alin.jpg',
-                lyric:'hl'
+                lyric:'yqyh'
             }
             
 
